@@ -1,0 +1,27 @@
+body{
+     background-color: white;
+     text-align: center;
+     border-bottom: 30px white solid;
+     margin: 0px;
+     padding: 30px;
+     border-left: 30px white solid;
+     border-right: 30px white solid;
+ }
+
+
+#hot{
+    border-radius: 25px;
+    width: 150px;
+    height: 80px;
+    margin: 4px;
+    margin-top: 12px;
+    background-color: #c5c73d;
+
+
+ }
+ 
+ .oma{
+     border-bottom-right-radius: 30px;
+     border-bottom-left-radius: 30px;
+     border: 30px solid blue;
+ }

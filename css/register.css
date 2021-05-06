@@ -1,0 +1,21 @@
+h1{
+    background-color: white;
+    color: blueviolet;
+    text-align: center;
+    border: 10px yellow dashed;
+
+}
+/* body{
+    background-image: url(../img/IMG_0188.png);
+    background-repeat: repeat;
+
+} */
+body{
+    background-color: lawngreen;
+    border: 10px;
+    border-top: 0px;
+    border-style: solid;
+    margin: 0px;
+    padding: 40px;
+
+}
